@@ -21,7 +21,7 @@
     "Promise": "^1.0.5",
     "bcrypt": "^3.0.7",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "ffprobe": "^1.1.0",
     "ffprobe-static": "^3.0.0",
     "morgan": "^1.9.1",
